@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316581207949",
+    "project_id": "mvnotesapp",
+    "storage_bucket": "mvnotesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316581207949:android:40f8f96d1166473cd2e7c4",
+        "android_client_info": {
+          "package_name": "com.example.mvnotesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgBYGHra6GOmiqudzoRy04ezQdMfqbPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
